@@ -1,0 +1,14 @@
+# Physics Teaching Simulator - Planning Document
+
+## Project Vision
+Interactive 2D retro-style physics simulator for teaching mechanics and fluid mechanics.
+Focus: "Known functions" (pre-built scenarios) with parameter tweaking, real-time visualization, and educational overlays.
+
+## Tech Stack
+- **Core**: Pygame (retro 2D interactive)
+- **Physics**: NumPy + SciPy + custom solvers (optionally Pymunk)
+- **Math**: SymPy for equations
+- **UI**: Custom retro-style menus and sliders
+- **Assets**: Pixel art
+
+## Folder Structure
