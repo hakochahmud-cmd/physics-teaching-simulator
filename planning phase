@@ -4,6 +4,8 @@
 Interactive 2D retro-style physics simulator for teaching mechanics and fluid mechanics.
 Focus: "Known functions" (pre-built scenarios) with parameter tweaking, real-time visualization, and educational overlays.
 
+See topics list: [Topics from Google Drive (mwesi/topics)](https://drive.google.com)  <!-- Link to be updated with actual share link -->
+
 ## Tech Stack
 - **Core**: Pygame (retro 2D interactive)
 - **Physics**: NumPy + SciPy + custom solvers (optionally Pymunk)
